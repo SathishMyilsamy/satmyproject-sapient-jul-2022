@@ -12,5 +12,13 @@ init
 
 -git status
 
+## Modified File
+
+-git add .
+
+## Commit It
+
+-git commit -m "text anything"
+
 # Git Downloads and Reference
 - https://git-scm.com/
