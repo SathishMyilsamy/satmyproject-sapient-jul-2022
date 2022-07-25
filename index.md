@@ -40,3 +40,7 @@ init
 - allow it and then authentication succeeded
 - then in web browser u can load the page and see the pushed files.
 
+## Home Page
+
+- Created new file.
+
