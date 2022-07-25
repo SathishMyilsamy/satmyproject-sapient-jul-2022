@@ -1,6 +1,9 @@
 # Understanding Git and Github / bitbucket
 Created by Sathish and experimenting with Git Etc..
 
+# Git Downloads and Reference
+- https://git-scm.com/
+
 ## Creating a project
 init
 
@@ -32,5 +35,8 @@ init
 
 - .git (push)
 
-# Git Downloads and Reference
-- https://git-scm.com/
+## Authentication github
+
+- allow it and then authentication succeeded
+- then in web browser u can load the page and see the pushed files.
+
