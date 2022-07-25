@@ -20,5 +20,17 @@ init
 
 -git commit -m "text anything"
 
+## REMOTE It
+
+- git remote -v (Check the all remotes)
+
+## Downloading Command
+
+- .git (fetch)
+
+## Uploading Command
+
+- .git (push)
+
 # Git Downloads and Reference
 - https://git-scm.com/
